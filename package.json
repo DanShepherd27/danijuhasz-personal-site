@@ -1,7 +1,7 @@
 {
   "name": "danijuhasz-personal-site",
   "version": "0.1.0",
-  "homepage": "https://danshepherd27.github.io/danijuhasz-personal-site/",
+  "homepage": "https://DanShepherd27.github.io/danijuhasz-personal-site/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
